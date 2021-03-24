@@ -2,11 +2,11 @@ import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
 
 import { store } from '@/store';
-import { ExampleComponent } from '@/components';
+import Navigation from '@/navigation';
 
 const App = () => (
   <Provider store={store}>
-    <ExampleComponent />
+    <Navigation />
   </Provider>
 );
 
