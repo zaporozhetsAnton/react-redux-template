@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-typescript",
+  "name": "react-redux-template",
   "version": "1.0.0",
   "description": "template of new react project",
   "scripts": {
@@ -17,7 +17,8 @@
     "eslint",
     "prettier",
     "redux",
-    "react-jss"
+    "react-jss",
+    "i18n"
   ],
   "author": "zaporozhetsanton@gmail.com",
   "license": "ISC",
