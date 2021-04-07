@@ -1,4 +1,4 @@
-# react-redux
+# react-redux-template
 
 Reactjs boilerplate with configured redux, i18n, react-jss.
 
